@@ -16,7 +16,7 @@ Like before, but if the opponent has not woken up after the VSkill 1, continue t
 
 ### 2. Floe Technique for Crossup Situation.
 **Technique (Normal Recovery):**\
-c.mp, st.mp, JF Tenko, Mujinkiaku. While the opponent is on the groud, small forward step and jump-in for a crossup.
-**Technique (Fast Recovery):**
-If the opponent hasn't woken up already, after the jump-in do a backdash and re-jump-in towards the opponent for a crossup situation.
+c.mp, st.mp, JF Tenko, Mujinkiaku. While the opponent is on the groud, small forward step and jump-in for a crossup.\
+**Technique (Fast Recovery):**\
+If the opponent hasn't woken up already, after the jump-in do a backdash and re-jump-in towards the opponent for a crossup situation.\
 
