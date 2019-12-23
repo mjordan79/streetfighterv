@@ -32,7 +32,7 @@ c.mp, st.mp, JF Tenko, Mujinkiaku. While the opponent is on the groud, small for
 If the opponent hasn't woken up already, after the jump-in do a backdash and re-jump-in towards the opponent for a crossup situation.
 
 ### 3. Floe Technique for Meaty Cross-Under.
-**Technique (Stay in front):**\
+**Technique (Stay in front with lk dash, cross-under with mk dash):**\
 c.mp, st.mp, EX-shoulders. When the opponent falls, st.mp, lk dash (remains in frontof the opponent).\
 Substitute lk dash with mk dask to cross-under.
 
