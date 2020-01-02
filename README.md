@@ -15,6 +15,7 @@ Standing = st\
 Crouch = c
 
 ## Karin.
+![karin image](http://i2.wp.com/shoryuken.com/wp-content/uploads/2017/03/sfv-karin-ready-pose.jpg?fit=750%2C400&resize=750%2C400)
 ### 1. Floe Technique for frametrap.
 **Training Room Settings:**\
 Stand, Guard after first attack, No Recovery or Normal Recovery, Counter Normal, No Stun.\
@@ -31,9 +32,17 @@ c.mp, st.mp, JF Tenko, Mujinkiaku. While the opponent is on the groud, small for
 **Technique (No Recovery):**\
 If the opponent hasn't woken up already, after the jump-in do a backdash and re-jump-in towards the opponent for a crossup situation.
 
-### 3. Floe Technique for Meaty Cross-Under.
+### 3. Floe Technique for Meaty Cross-Under. **[DEPRECATED]**
 **Technique (Stay in front with lk dash, cross-under with mk dash):**\
 c.mp, st.mp, EX-shoulders. When the opponent falls, st.mp, lk dash (remains in frontof the opponent).\
 Substitute lk dash with mk dask to cross-under.
 
+### 4. Shindoru Technique for escaping combo into meaty setup.
+Useful for getting out of the corner and reverse the situation.
+**Training Room Settings:**\
+Normal or Quick Recovery with jab on recovery.\
+**Technique (Normal Recovery):**\
+
+## Kage.
+![kage image](https://4.bp.blogspot.com/-JovJG7rwddc/XBfNL5bpFjI/AAAAAAAASuE/deFP9MFXWmExGKbBQGfFtneuDfYyBcMEACLcBGAs/s1600/Street-Fighter-V.png)
 
