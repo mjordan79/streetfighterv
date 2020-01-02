@@ -37,7 +37,7 @@ If the opponent hasn't woken up already, after the jump-in do a backdash and re-
 c.mp, st.mp, EX-shoulders. When the opponent falls, st.mp, lk dash (remains in frontof the opponent).\
 Substitute lk dash with mk dask to cross-under.
 
-### 4. Shindoru Technique for escaping combo into meaty setup.
+### 4. Shindoru Technique for escaping combo into meaty setup. **[DEPRECATED]**
 Useful for getting out of the corner and reverse the situation.\
 **Training Room Settings:**\
 Normal or Quick Recovery with jab on recovery.\
