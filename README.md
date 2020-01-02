@@ -24,11 +24,11 @@ c.mp, st.mp, Tenko, Mujinkiaku. While the opponent is falling --> c.mp, VSkill 1
 The opponent is forced to parry. After the parry --> c.lp, st.mp, Tenko, Mujinkiaku.\
 Repeat the strategy for massive pressure.\
 **Technique (Normal Recovery):**\
-Like before, but if the opponent has not woken up after the VSkill 1, continue the pressure with c.lp, VSkill 1.
+Like before, but if the opponent has not woken up already, after the VSkill 1, continue the pressure with c.lp, VSkill 1.
 
 ### 2. Floe Technique for Crossup Situation.
 **Technique (Normal Recovery):**\
-c.mp, st.mp, JF Tenko, Mujinkiaku. While the opponent is on the groud, small forward step and jump-in for a crossup.\
+c.mp, st.mp, JF Tenko, Mujinkiaku. While the opponent is on the ground, small forward step and jump-in for a crossup.\
 **Technique (No Recovery):**\
 If the opponent hasn't woken up already, after the jump-in do a backdash and re-jump-in towards the opponent for a crossup situation.
 
@@ -38,10 +38,16 @@ c.mp, st.mp, EX-shoulders. When the opponent falls, st.mp, lk dash (remains in f
 Substitute lk dash with mk dask to cross-under.
 
 ### 4. Shindoru Technique for escaping combo into meaty setup.
-Useful for getting out of the corner and reverse the situation.
+Useful for getting out of the corner and reverse the situation.\
 **Training Room Settings:**\
 Normal or Quick Recovery with jab on recovery.\
 **Technique (Normal Recovery):**\
+st.hp, JF Tenko, Mujinkiaku, EX Tenko. While the opponent is in air, forward dash with hk Seppo to cross under.\
+At this point, you're in the opposite side right in front of the opponent. Re-forward dash with Seppo while he's recovering\
+and go with a c.mp (meaty) continuing with a combo.\
+**Technique (No Recovery):**\
+If no recover is made, do the same thing: forward dash with seppo and c.mp. The opponent has not woken up already, so redo\
+a forward dash and do st.lk, c.mp and continue the combo.
 
 ## Kage.
 ![kage image](https://4.bp.blogspot.com/-JovJG7rwddc/XBfNL5bpFjI/AAAAAAAASuE/deFP9MFXWmExGKbBQGfFtneuDfYyBcMEACLcBGAs/s1600/Street-Fighter-V.png)
