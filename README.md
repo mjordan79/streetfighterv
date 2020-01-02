@@ -46,8 +46,8 @@ st.hp, JF Tenko, Mujinkiaku, EX Tenko. While the opponent is in air, forward das
 At this point, you're in the opposite side right in front of the opponent. Re-forward dash with Seppo while he's recovering\
 and go with a c.mp (meaty) continuing with a combo.\
 **Technique (No Recovery):**\
-If no recover is made, do the same thing: forward dash with seppo and c.mp. The opponent has not woken up already,\ 
-so redo a forward dash and do st.lk, c.mp and continue the combo.\
+If no recover is made, do the same thing: forward dash with seppo and c.mp. The opponent has not woken up already, 
+so redo a forward dash and do st.lk, c.mp and continue the combo.
 
 ## Kage.
 ![kage image](https://4.bp.blogspot.com/-JovJG7rwddc/XBfNL5bpFjI/AAAAAAAASuE/deFP9MFXWmExGKbBQGfFtneuDfYyBcMEACLcBGAs/s1600/Street-Fighter-V.png)
